@@ -1,4 +1,4 @@
-zcep
+zcpe
 ====
 
-Zend certificate engineer PHP pratice
+Zend certificate PHP engineer pratice
